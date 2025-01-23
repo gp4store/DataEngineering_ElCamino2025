@@ -51,7 +51,7 @@ print(text12)
 
 text13 = 'Data Engineering'
 text14 = text13[::2]
-print(13)
+print(text14)
 
 # Write a program that declares a variable and prints a slice of the string assigned to the variable, skipping the first two characters.
 
@@ -88,4 +88,3 @@ print(text24)
 text25 = 'Data_Engineering'
 text26 = text25.replace('Engineering', 'Analysis')
 print(text26)
-
